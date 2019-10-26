@@ -1,0 +1,29 @@
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="../css/style.css">
+<meta charset ="UTF-8">
+<title> index </title>
+</head>
+<body>
+<h1>Привет,мир!</h1>
+<br>
+<p>Я теперь знаю,что такое CSS и могу подключить его в проект</p>
+<br> 
+<h3>А еще я выучил следущие свойства:
+<br>
+<ol>
+<li>color</li>
+<br>
+<li>background-color</li>
+<li>font-size</li>
+<li>text-decoration</li>
+<ul>
+<li>underline</li>
+<li>line-through</li>
+</ul>
+<li>font-style</li>
+<li>font-weight</li>
+<li>text-align</li>
+</ol>
+</body>
+</html>
